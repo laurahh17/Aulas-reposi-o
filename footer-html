@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula-Footer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<footer>
+
+    <div>
+        <h1> Contatos </h1>
+          <ul>
+             <li> piriripororo@gamil.com </li>
+             <li> @vendasklk </li>
+             <li> kakaka.facebook </li>
+          </ul>
+    </div>
+
+    <div>
+        <h1> Numero de Contatos </h1>
+          <ul>
+             <li> 11974562439 </li>
+             <li> 11979885633 </li>
+             <li> 11990887053 </li>
+          </ul>
+    </div>
+
+    <div>
+        <h1> Endereços </h1>
+          <ul>
+             <li> Rua Jamunda 34 </li>
+             <li> Av. Mazzei 1091 </li>
+             <li> Av. Agua Fria 1080 </li>
+          </ul>
+    </div>
+
+</footer>
+
+</body>
+</html>
