@@ -14,10 +14,12 @@
 
 <br>
 <br>
+<nav>
     <a href="https://www.academiagavioes.com.br/sobre-nos"><button>Sobre Nós</button></a>
     <a href="https://www.academiagavioes.com.br/modalidades"><button>Modalidades</button></a>
     <a href="https://www.academiagavioes.com.br/unidades"><button>Unidades</button></a>
     <a href="https://www.academiagavioes.com.br/contato"><button>Contato</button></a>
+</nav>
 
 <div class="div1">
     <h1> Muito mais tempo para você </h1>
