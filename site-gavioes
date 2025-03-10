@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header> 
+
+    <img src="https://www.academiagavioes.com.br/templates/yootheme/cache/c4/logo-c4728fa4.png" alt="Logo Gaviões Academia">
+
+<br>
+<br>
+    <a href="https://www.academiagavioes.com.br/sobre-nos"><button>Sobre Nós</button></a>
+    <a href="https://www.academiagavioes.com.br/modalidades"><button>Modalidades</button></a>
+    <a href="https://www.academiagavioes.com.br/unidades"><button>Unidades</button></a>
+    <a href="https://www.academiagavioes.com.br/contato"><button>Contato</button></a>
+
+<div class="div1">
+    <h1> Muito mais tempo para você </h1>
+    <p> Temos como missão ajudar todos os nossos alunos a atingir os seus resultados, seja com qual modalidade escolher. <br> Confira as modalidades</p>
+    <a href="https://www.academiagavioes.com.br/modalidades"><button>Aqui</button></a>
+</div>
+</header>
+
+<img src="https://www.academiagavioes.com.br/templates/yootheme/cache/45/1-458af464.jpeg" alt="Academia Gaviões" class="img1">
+
+<section>
+<div class="card">
+    <img data-lazyloaded="1" src="https://www.academiagavioes.com.br/templates/yootheme/cache/71/IMG_7426-71847337.webp" alt="Aricanduva"></noscript>
+    <h2>Aricanduva</h2>
+    <p>Av. Rio das Pedras, 1793 - Jardim Aricanduva - São Paulo - SP - 03453-100</p>
+</div>
+
+<div class="card1">
+    <img data-lazyloaded="1" src="https://www.academiagavioes.com.br/templates/yootheme/cache/ad/horto8-ad742c9c.webp" alt="Horto"></noscript>
+    <h2>Horto</h2>
+    <p>Av. Parada Pinto, 2513 - Vila Nova Cachoeirinha, São Paulo - SP, 02611-003</p>
+</div>
+
+<div class="card2">
+    <img data-lazyloaded="1" src="https://www.academiagavioes.com.br/templates/yootheme/cache/c0/WhatsApp_Image_2023-06-15_at_16.01.53-c037ed5a.webp" alt="Itaim"></noscript>
+    <h2>Itaim Paulista</h2>
+    <p>Avenida Marechal Tito, 7579 - Itaim Paulista, São Paulo - SP, 08115-100</p>
+</div>
+</section>
+
+<footer>
+    <div>
+        <h1> Contatos </h1>
+          <ul>
+             <li> gavioesacademia@gmail.com </li>
+             <li> @gavioesacademia </li>
+          </ul>
+    </div>
+
+    <div>
+        <h1> Numero de Contatos </h1>
+          <ul>
+             <li> 11974562439 </li>
+             <li> 11979885633 </li>
+             <li> 11990887053 </li>
+          </ul>
+    </div>
+
+    <div>
+        <h1> Endereços </h1>
+          <ul>
+             <li> Rua Jamunda 34 </li>
+             <li> Av. Mazzei 1091 </li>
+             <li> Av. Agua Fria 1080 </li>
+          </ul>
+    </div>
+
+</footer>
+
+</body>
+</html>
