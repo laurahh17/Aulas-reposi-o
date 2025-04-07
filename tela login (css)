@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+    background-color: rgb(194, 165, 248) ;
+}
+
+*{
+    margin: 0.5%;
+
+}
+
+.btn1{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 9%;
+}
+
+.btn2{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 9%;
+}   
