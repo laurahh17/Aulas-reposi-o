@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    background-color: black;
+    width: 100%;
+    align-items: center;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 10px 0px;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.inicio{
+    height: 100vh;
+    background-color: plum;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inicio p{
+    width: 50%;
+    background-color: blueviolet;
+}
