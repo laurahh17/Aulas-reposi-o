@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nav Bar Fixa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Sobre</a></li>
+                <li><a href="">Contato</a></li>
+                <li><a href="">Projetos</a></li>
+            </ul>
+        </nav>
+    </header>
+        <section class="inicio">
+            <h1>Seja bem vindo ao meu portfólio!</h1>
+            <p>Meu nome é Laura Novaes, tenho 16 anos e sou apaixonada em jogos e programação. <br>Estou atualmente no segundo ano do ensino médio tecnico da FIAP School e meu <br>sonho é se tornar uma engenheira da software</p>
+        </section>
+    
+</body>
+</html>
