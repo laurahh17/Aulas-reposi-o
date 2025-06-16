@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    height: 30px;
+    width: 100%;
+    background-color: black;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color: white ;
+    text-decoration: none;
+}
+
+main{
+    margin-top: 30px;
+}
+
+.grid-container{
+    display: grid;
+    justify-content: center;
+    gap: 10px;
+    grid-template-columns: repeat(3, 200px);
+}
+
+.card{
+    background-color: aqua;
+    text-align: center;
+    animation: fadeIn 2s ease-in 1 ;
+}
+
+@keyframes fadeIn{
+    0%{
+        transform: translateX(-500%);
+        transform: scale(0);
+    }
+    50%{
+        transform: rotate(30deg);
+    }
+    100%{
+        transform: translateX(0%);
+        transform: scale(1);
+    }
+}
